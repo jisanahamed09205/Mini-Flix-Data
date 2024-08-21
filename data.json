@@ -1,6 +1,7 @@
 [
   {
     "_id": "01",
+    "featured": true,
     "title": "Avatar",
     "trailer": "https://www.youtube.com/embed/5PSNL1qE6VY?si=a4ihGG22FMYMZlqG",
     "contentLink": "",
@@ -29,6 +30,7 @@
   },
   {
       "_id":"02",
+      "featured": true,
     "title": "I Am Legend",
     "trailer": "https://www.youtube.com/embed/dtKMEAXyPkg?si=6j5o2R6K-WU28s1K",
     "contentLink": "",
@@ -56,6 +58,7 @@
   },
   {
       "_id":"03",
+      "featured": false,
     "title": "300",
     "trailer": "https://www.youtube.com/embed/UrIbxk7idYA?si=9Gig0-Ypws_rrhcb",
     "contentLink": "",
@@ -82,6 +85,7 @@
   },
   {
       "_id":"04",
+      "featured": true,
     "title": "The Avengers",
     "trailer": "https://www.youtube.com/embed/eOrNdBpGMv8?si=KtPGs7kgjqG0V0Cc",
     "contentLink": "",
@@ -110,6 +114,7 @@
   },
   {
       "_id":"05",
+      "featured": false,
     "title": "The Wolf of Wall Street",
     "trailer": "https://www.youtube.com/embed/iszwuX1AK6A?si=2DRcpZfkqf7vH3na",
     "contentLink": "",
@@ -138,6 +143,7 @@
   },
   {
       "_id":"06",
+      "featured": true,
     "title": "Interstellar",
     "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E?si=bRVhofGFQ-Yri4ty",
     "contentLink": "",
@@ -166,6 +172,7 @@
   },
   {
       "_id":"07",
+      "featured": true,
     "title": "Game of Thrones",
     "trailer": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG",
     "contentLink": {
@@ -223,6 +230,7 @@
   },
   {
       "_id":"08",
+      "featured": true,
     "title": "Vikings",
     "trailer": "https://www.youtube.com/embed/Yi4YnwFT7Gk?si=yiyZwHOLQ3ZsQ0zs",
     "contentLink": {
@@ -320,6 +328,7 @@
   },
   {
       "_id":"09",
+      "featured": false,
     "title": "Gotham",
     "trailer": "https://www.youtube.com/embed/VwOPA2upeCA?si=ej-GRcYeRCOMckiZ",
     "contentLink": "",
@@ -348,6 +357,7 @@
   },
   {
       "_id":"10",
+      "featured": true,
     "title": "Power",
     "trailer": "https://www.youtube.com/embed/g9PBhyTHhRE?si=gj8iU0WkjfzBGwT1",
     "contentLink": "",
@@ -376,6 +386,7 @@
   },
   {
       "_id":"11",
+      "featured": false,
     "title": "Narcos",
     "trailer": "https://www.youtube.com/embed/xl8zdCY-abw?si=943FlNd80RmVdIuy",
     "contentLink": "",
@@ -404,6 +415,7 @@
   },
   {
       "_id":"12",
+      "featured": true,
     "title": "Breaking Bad",
     "trailer": "https://www.youtube.com/embed/HhesaQXLuRY?si=CbZ6MAZ_KpOJjct4",
     "contentLink": "",
@@ -432,6 +444,7 @@
   },
   {
     "_id":"13",
+    "featured": true,
     "title": "Doctor Strange",
     "trailer": "",
     "contentLink": "",
@@ -458,6 +471,7 @@
   },
   {
     "_id":"14",
+    "featured": false,
     "title": "Rogue One: A Star Wars Story",
     "trailer": "",
     "contentLink": "",
@@ -486,6 +500,7 @@
   },
   {
     "_id":"15",
+    "featured": true,
     "title": "Assassin's Creed",
     "trailer": "",
     "contentLink": "",
@@ -513,6 +528,7 @@
   },
   {
     "_id":"16",
+    "featured": false,
     "title": "Luke Cage",
     "trailer": "",
     "contentLink": "",
