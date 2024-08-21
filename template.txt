@@ -1,0 +1,119 @@
+  {
+    "_id": "01",
+    "featured": true,
+    "title": "",
+    "trailer": "https://www.youtube.com/embed/",
+    "contentLink": "",
+    "quality": "",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movies",
+    "images": [
+
+    ]
+  },
+  {
+    "_id": "",
+    "featured": true,
+    "title": "",
+    "trailer": "https://www.youtube.com/embed/",
+    "contentLink": {
+      "season1": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": ""
+          },
+          {
+            "episode": "Episode 2",
+            "link": ""
+          },
+          {
+            "episode": "Episode 3",
+            "link": ""
+          }
+        ]
+      },
+      "season2": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": ""
+          },
+          {
+            "episode": "Episode 2",
+            "link": ""
+          }
+        ]
+      },
+      "season3": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": ""
+          },
+          {
+            "episode": "Episode 2",
+            "link": ""
+          },
+          {
+            "episode": "Episode 3",
+            "link": ""
+          },
+          {
+            "episode": "Episode 4",
+            "link": ""
+          }
+        ]
+      },
+      "season4": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": ""
+          },
+          {
+            "episode": "Episode 2",
+            "link": ""
+          },
+          {
+            "episode": "Episode 3",
+            "link": ""
+          },
+          {
+            "episode": "Episode 4",
+            "link": ""
+          }
+        ]
+      }
+    },
+    "quality": "",
+    "carouselImage": "",
+    "year": "–",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "series",
+    "images": [
+      
+    ]
+  },
