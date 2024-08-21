@@ -29,8 +29,8 @@
     ]
   },
   {
-      "_id":"02",
-      "featured": true,
+    "_id": "02",
+    "featured": true,
     "title": "I Am Legend",
     "trailer": "https://www.youtube.com/embed/dtKMEAXyPkg?si=6j5o2R6K-WU28s1K",
     "contentLink": "",
@@ -57,8 +57,8 @@
     ]
   },
   {
-      "_id":"03",
-      "featured": false,
+    "_id": "03",
+    "featured": false,
     "title": "300",
     "trailer": "https://www.youtube.com/embed/UrIbxk7idYA?si=9Gig0-Ypws_rrhcb",
     "contentLink": "",
@@ -84,8 +84,8 @@
     ]
   },
   {
-      "_id":"04",
-      "featured": true,
+    "_id": "04",
+    "featured": true,
     "title": "The Avengers",
     "trailer": "https://www.youtube.com/embed/eOrNdBpGMv8?si=KtPGs7kgjqG0V0Cc",
     "contentLink": "",
@@ -113,8 +113,8 @@
     ]
   },
   {
-      "_id":"05",
-      "featured": false,
+    "_id": "05",
+    "featured": false,
     "title": "The Wolf of Wall Street",
     "trailer": "https://www.youtube.com/embed/iszwuX1AK6A?si=2DRcpZfkqf7vH3na",
     "contentLink": "",
@@ -142,8 +142,8 @@
     ]
   },
   {
-      "_id":"06",
-      "featured": true,
+    "_id": "06",
+    "featured": true,
     "title": "Interstellar",
     "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E?si=bRVhofGFQ-Yri4ty",
     "contentLink": "",
@@ -171,8 +171,8 @@
     ]
   },
   {
-      "_id":"07",
-      "featured": true,
+    "_id": "07",
+    "featured": true,
     "title": "Game of Thrones",
     "trailer": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG",
     "contentLink": {
@@ -229,8 +229,8 @@
     ]
   },
   {
-      "_id":"08",
-      "featured": true,
+    "_id": "08",
+    "featured": true,
     "title": "Vikings",
     "trailer": "https://www.youtube.com/embed/Yi4YnwFT7Gk?si=yiyZwHOLQ3ZsQ0zs",
     "contentLink": {
@@ -327,8 +327,8 @@
     ]
   },
   {
-      "_id":"09",
-      "featured": false,
+    "_id": "09",
+    "featured": false,
     "title": "Gotham",
     "trailer": "https://www.youtube.com/embed/VwOPA2upeCA?si=ej-GRcYeRCOMckiZ",
     "contentLink": "",
@@ -356,8 +356,8 @@
     ]
   },
   {
-      "_id":"10",
-      "featured": true,
+    "_id": "10",
+    "featured": true,
     "title": "Power",
     "trailer": "https://www.youtube.com/embed/g9PBhyTHhRE?si=gj8iU0WkjfzBGwT1",
     "contentLink": "",
@@ -385,8 +385,8 @@
     ]
   },
   {
-      "_id":"11",
-      "featured": false,
+    "_id": "11",
+    "featured": false,
     "title": "Narcos",
     "trailer": "https://www.youtube.com/embed/xl8zdCY-abw?si=943FlNd80RmVdIuy",
     "contentLink": "",
@@ -414,8 +414,8 @@
     ]
   },
   {
-      "_id":"12",
-      "featured": true,
+    "_id": "12",
+    "featured": true,
     "title": "Breaking Bad",
     "trailer": "https://www.youtube.com/embed/HhesaQXLuRY?si=CbZ6MAZ_KpOJjct4",
     "contentLink": "",
@@ -443,7 +443,7 @@
     ]
   },
   {
-    "_id":"13",
+    "_id": "13",
     "featured": true,
     "title": "Doctor Strange",
     "trailer": "",
@@ -470,7 +470,7 @@
     ]
   },
   {
-    "_id":"14",
+    "_id": "14",
     "featured": false,
     "title": "Rogue One: A Star Wars Story",
     "trailer": "",
@@ -499,7 +499,7 @@
     ]
   },
   {
-    "_id":"15",
+    "_id": "15",
     "featured": true,
     "title": "Assassin's Creed",
     "trailer": "",
@@ -527,7 +527,7 @@
     ]
   },
   {
-    "_id":"16",
+    "_id": "16",
     "featured": false,
     "title": "Luke Cage",
     "trailer": "",
@@ -553,6 +553,133 @@
       "https://images-na.ssl-images-amazon.com/images/M/MV5BOTYzOTQyNDYxNl5BMl5BanBnXkFtZTgwNzA1NDU4OTE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxMjA3MTQ5Ml5BMl5BanBnXkFtZTgwOTA1NDU4OTE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjg5ODYwNF5BMl5BanBnXkFtZTgwMTE1NDU4OTE@._V1_SY1000_CR0,0,1477,1000_AL_.jpg"
+    ]
+  },
+  {
+    "_id": "17",
+    "featured": false,
+    "title": "Luke Cage",
+    "trailer": "",
+    "contentLink": "Avaliable on ",
+    "quality": "FHD",
+    "carouselImage": "",
+    "year": "2016–",
+    "publishDate": "30 Sep 2016",
+    "runtime": "55 min",
+    "genre": "Action, Crime, Drama",
+    "director": "N/A",
+    "writer": "Cheo Hodari Coker",
+    "actors": "Mahershala Ali, Mike Colter, Frankie Faison, Erik LaRay Harvey",
+    "plot": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
+    "language": "English",
+    "country": "USA",
+    "awards": "N/A",
+    "moviePoster": "https://live.staticflickr.com/65535/53893919554_03a9806561_n.jpg",
+    "type": "movie",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxNjc1NjI0NV5BMl5BanBnXkFtZTgwNzA0NzY0ODE@._V1_SY1000_CR0,0,1497,1000_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1MDg3NjY2OF5BMl5BanBnXkFtZTgwNDE1NDU4OTE@._V1_SY1000_CR0,0,1497,1000_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BOTYzOTQyNDYxNl5BMl5BanBnXkFtZTgwNzA1NDU4OTE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxMjA3MTQ5Ml5BMl5BanBnXkFtZTgwOTA1NDU4OTE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjg5ODYwNF5BMl5BanBnXkFtZTgwMTE1NDU4OTE@._V1_SY1000_CR0,0,1477,1000_AL_.jpg"
+    ]
+  },
+  {
+    "_id": "18",
+    "featured": true,
+    "title": "Vikings",
+    "trailer": "https://www.youtube.com/embed/Yi4YnwFT7Gk?si=yiyZwHOLQ3ZsQ0zs",
+    "contentLink": {
+      "season1": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG"
+          },
+          {
+            "episode": "Episode 2",
+            "link": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG"
+          },
+          {
+            "episode": "Episode 3",
+            "link": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG"
+          }
+        ]
+      },
+      "season2": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG"
+          },
+          {
+            "episode": "Episode 2",
+            "link": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG"
+          }
+        ]
+      },
+      "season3": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG"
+          },
+          {
+            "episode": "Episode 2",
+            "link": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG"
+          },
+          {
+            "episode": "Episode 3",
+            "link": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG"
+          },
+          {
+            "episode": "Episode 4",
+            "link": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG"
+          }
+        ]
+      },
+      "season4": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG"
+          },
+          {
+            "episode": "Episode 2",
+            "link": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG"
+          },
+          {
+            "episode": "Episode 3",
+            "link": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG"
+          },
+          {
+            "episode": "Episode 4",
+            "link": "https://www.youtube.com/embed/KPLWWIOCOOQ?si=dDw6nwpyhAD45HrG"
+          }
+        ]
+      }
+    },
+    "quality": "HD",
+    "carouselImage": "https://i.ibb.co/bJS2jvn/Vikings.jpg",
+    "year": "2013–",
+    "publishDate": "03 Mar 2013",
+    "runtime": "44 min",
+    "genre": "Action, Drama, History",
+    "director": "N/A",
+    "writer": "Michael Hirst",
+    "actors": "Travis Fimmel, Clive Standen, Gustaf Skarsgård, Katheryn Winnick",
+    "plot": "The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.",
+    "language": "English, Old English, Norse, Old, Latin",
+    "country": "Ireland, Canada",
+    "awards": "Nominated for 7 Primetime Emmys. Another 17 wins & 49 nominations.",
+    "moviePoster": "https://live.staticflickr.com/65535/53893919519_d8ed25f9f4_n.jpg",
+    "type": "series",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM5MTM1ODUxNV5BMl5BanBnXkFtZTgwNTAzOTI2ODE@._V1_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BNzU2NDcxODMyOF5BMl5BanBnXkFtZTgwNDAzOTI2ODE@._V1_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMzMzIzOTU2M15BMl5BanBnXkFtZTgwODMzMTkyODE@._V1_SY1000_SX1500_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NTQ2MDA3NF5BMl5BanBnXkFtZTgwODkxMDUxODE@._V1_SY1000_SX1500_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxOTQ3NTA5N15BMl5BanBnXkFtZTgwMzExMDUxODE@._V1_SY1000_SX1500_AL_.jpg"
     ]
   }
 ]
