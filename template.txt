@@ -2,7 +2,7 @@
     "_id": "01",
     "featured": true,
     "title": "",
-    "trailer": "https://www.youtube.com/embed/",
+    "trailer": "",
     "contentLink": "",
     "quality": "",
     "carouselImage": "",
@@ -20,7 +20,7 @@
     "moviePoster": "",
     "type": "movies",
     "images": [
-
+              
     ]
   },
   {
