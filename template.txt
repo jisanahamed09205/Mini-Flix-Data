@@ -4,7 +4,7 @@
     "title": "",
     "trailer": "",
     "contentLink": "",
-    "quality": "",
+    "quality": "BluRay(HD)",
     "carouselImage": "",
     "year": "",
     "publishDate": "",
@@ -22,7 +22,7 @@
     "images": [
               
     ]
-  },
+  }
   {
     "_id": "",
     "featured": true,
@@ -116,4 +116,4 @@
     "images": [
       
     ]
-  },
+  }
