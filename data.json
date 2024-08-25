@@ -263,5 +263,64 @@
       "https://ibb.co/mGfvLCQ",
       "https://ibb.co/N2SyJcs"
     ]
+  },
+  {
+    "_id": "10",
+    "featured": false,
+    "title": "The Amazing Spider-Man",
+    "trailer": "https://www.youtube.com/embed/-tnxzJ0SSOw?si=WhsiPjumy_8L5yn1",
+    "contentLink": "//listeamed.net/v/dNjgOl4RdDDO9Wn",
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://ibb.co/SP8t5JR",
+    "year": "2012",
+    "publishDate": "July 3, 2012",
+    "runtime": "136 min",
+    "genre": "Sci-Fi, Superhero, Action, Adventure",
+    "director": "Mard Webb",
+    "writer": "James Vanderbilt, Alvin Sargent, Steve Kloves",
+    "actors": "Andrew Garfield, Emma Stone, Rhys Ifans",
+    "plot": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.",
+    "language": "English",
+    "country": "United States",
+    "awards": "Top Box Office Films Winner(2013)",
+    "moviePoster": "https://ibb.co/8c2drbN",
+    "type": "movies",
+    "images": [
+      "https://ibb.co/Tkfgdyz",
+      "https://ibb.co/9ZRBP0Y",
+      "https://ibb.co/fDwQNLJ",
+      "https://ibb.co/jrts5wG",
+      "https://ibb.co/tqb7ppW"
+    ]
+  },
+  {
+    "_id": "11",
+    "featured": true,
+    "title": "The Avengers",
+    "trailer": "https://www.youtube.com/embed/eOrNdBpGMv8?si=y2RHoQ02XYGq1Z2B",
+    "contentLink": "//listeamed.net/v/6zeREaDmoAZxZPa",
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://ibb.co/SR2V4Pc",
+    "year": "2012",
+    "publishDate": "May 4, 2012",
+    "runtime": "143 min",
+    "genre": "Sci-Fi, Superhero, Action",
+    "director": "Joss Whedon",
+    "writer": "Joss Whedon, Zak Penn",
+    "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Stellan Skarsgård, Samuel L. Jackson",
+    "plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "language": "English",
+    "country": "United States",
+    "awards": "Best Science Fiction Film Winner(2013)",
+    "moviePoster": "https://ibb.co/mTnQwns",
+    "type": "movies",
+    "images": [
+      "https://ibb.co/tmh9XSC",
+      "https://ibb.co/7YNZ6dn",
+      "https://ibb.co/N2wWZV3",
+      "https://ibb.co/hyZ0xwh",
+      "https://ibb.co/qkmGyh2",
+      "https://ibb.co/HTbkc1s"
+    ]
   }
 ]
