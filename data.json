@@ -322,5 +322,266 @@
       "https://ibb.co/qkmGyh2",
       "https://ibb.co/HTbkc1s"
     ]
+  },
+  {
+    "_id": "12",
+    "featured": true,
+    "title": "The Boys",
+    "trailer": "https://www.youtube.com/embed/M1bhOaLV4FU?si=wlt_9pssWw4qOjvC",
+    "contentLink": {
+      "season1": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": "https://drop.download/7ifn7564m6i1"
+          },
+          {
+            "episode": "Episode 2",
+            "link": "https://drop.download/ztkrgx0steym"
+          },
+          {
+            "episode": "Episode 3",
+            "link": "https://drop.download/iaje9bq6wtgb"
+          },
+          {
+            "episode": "Episode 4",
+            "link": "https://drop.download/yp92poafth8m"
+          },
+          {
+            "episode": "Episode 5",
+            "link": "https://drop.download/u2q47973re0i"
+          },
+          {
+            "episode": "Episode 6",
+            "link": "https://drop.download/6xnxdtms0tc5"
+          },
+          {
+            "episode": "Episode 7",
+            "link": "https://drop.download/3o8ktcstlv0e"
+          },
+          {
+            "episode": "Episode 8",
+            "link": "https://drop.download/w6opj0jf8jq6"
+          }
+        ]
+      },
+      "season2": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": "https://drop.download/q4fzk1848jqd"
+          },
+          {
+            "episode": "Episode 2",
+            "link": "https://drop.download/6xvatqwvljr9"
+          },
+          {
+            "episode": "Episode 3",
+            "link": "https://drop.download/ij3lm1n7c7f4"
+          },
+          {
+            "episode": "Episode 4",
+            "link": "https://drop.download/g87orvdw111z"
+          },
+          {
+            "episode": "Episode 5",
+            "link": "https://drop.download/g73310oco09m"
+          },
+          {
+            "episode": "Episode 6",
+            "link": "https://drop.download/2nvdolpfant1"
+          },
+          {
+            "episode": "Episode 7",
+            "link": "https://drop.download/qc30i8auo0wh"
+          },
+          {
+            "episode": "Episode 8",
+            "link": "https://drop.download/s6unqhrqr7y1"
+          }
+        ]
+      },
+      "season3": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": "https://drop.download/0obwb62nqzaf"
+          },
+          {
+            "episode": "Episode 2",
+            "link": "https://drop.download/92hew9tvu9jz"
+          },
+          {
+            "episode": "Episode 3",
+            "link": "https://drop.download/drrcmt0ycodm"
+          },
+          {
+            "episode": "Episode 4",
+            "link": "https://drop.download/4u8ofc4xfpzi"
+          },
+          {
+            "episode": "Episode 5",
+            "link": "https://drop.download/zdfec5or949c"
+          },
+          {
+            "episode": "Episode 6",
+            "link": "https://drop.download/eotsnkrbzw35"
+          },
+          {
+            "episode": "Episode 7",
+            "link": "https://drop.download/6pov301wc0ob"
+          },
+          {
+            "episode": "Episode 8",
+            "link": "https://drop.download/akl4lvh1e0ie"
+          }
+        ]
+      },
+      "season4": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": ""
+          },
+          {
+            "episode": "Episode 2",
+            "link": ""
+          },
+          {
+            "episode": "Episode 3",
+            "link": ""
+          },
+          {
+            "episode": "Episode 4",
+            "link": ""
+          },
+          {
+            "episode": "Episode 5",
+            "link": ""
+          },
+          {
+            "episode": "Episode 6",
+            "link": ""
+          },
+          {
+            "episode": "Episode 7",
+            "link": ""
+          },
+          {
+            "episode": "Episode 8",
+            "link": ""
+          }
+        ]
+      }
+    },
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://ibb.co/9908DQw",
+    "year": "–July 26, 2019 – present",
+    "publishDate": "2019",
+    "runtime": "55–68 min",
+    "genre": "Sci-Fi, Superhero, Action, Comedy, Crime, Drama, Satire",
+    "director": "Eric Kripke",
+    "writer": "",
+    "actors": "Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty, Dominique McElligott, Jessie T. Usher, Laz Alonso, Chace Crawford, Tomer Capone, Karen Fukuhara, Nathan Mitchell, Elisabeth Shue, Colby Minifie, Aya Cash, Claudia Doumit, Jensen Ackles, Cameron Crovetti, Susan Heyward, Valorie Curry, Jeffrey Dean Morgan",
+    "plot": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
+    "language": "English",
+    "country": "United States",
+    "awards": "Best Streaming Action & Adventure Series Winner(2022)",
+    "moviePoster": "https://ibb.co/KKfCDWh",
+    "type": "series",
+    "images": [
+      "https://ibb.co/37ST55J",
+      "https://ibb.co/2d7p5Sx",
+      "https://ibb.co/HXz1JzW",
+      "https://ibb.co/HCMWFS2",
+      "https://ibb.co/s6H82H3",
+      "https://ibb.co/SVZdjYT"
+    ]
+  },
+  {
+    "_id": "13",
+    "featured": true,
+    "title": "Rise of Empires: Ottoman",
+    "trailer": "https://www.youtube.com/embed/t3ISUY0l0WQ?si=VAsDeyB2NQFK_LFJ",
+    "contentLink": {
+      "season1": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": "https://drop.download/9pcqtcu82rsc"
+          },
+          {
+            "episode": "Episode 2",
+            "link": "https://drop.download/r75nja726jo9"
+          },
+          {
+            "episode": "Episode 3",
+            "link": "https://drop.download/sb6mzt1b26ej"
+          },
+          {
+            "episode": "Episode 4",
+            "link": "https://drop.download/fszm248ytyb4"
+          },
+          {
+            "episode": "Episode 5",
+            "link": "https://drop.download/q9i013hgxty3"
+          },
+          {
+            "episode": "Episode 6",
+            "link": "https://drop.download/kuplwfc0lm9n"
+          }
+        ]
+      },
+      "season2": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": "https://drop.download/rlsc9z6m3v9a"
+          },
+          {
+            "episode": "Episode 2",
+            "link": "https://drop.download/2kmlf5h2nlrg"
+          },
+          {
+            "episode": "Episode 3",
+            "link": "https://drop.download/uj7fz5t0yh8o"
+          },
+          {
+            "episode": "Episode 4",
+            "link": "https://drop.download/uxue7z4caohn"
+          },
+          {
+            "episode": "Episode 5",
+            "link": "https://drop.download/lj9h6xlxlo6u"
+          },
+          {
+            "episode": "Episode 6",
+            "link": "https://drop.download/pl8jhsttjt66"
+          }
+        ]
+      }
+    },
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://ibb.co/5YcFQ4c",
+    "year": "–2020-2022",
+    "publishDate": "24 January, 2020",
+    "runtime": "45 min",
+    "genre": "History, War, Documentary, Drama, Docuseries",
+    "director": "Emre Şahin",
+    "writer": "Kelly McPherson",
+    "actors": "Cem Yiğit Üzümoğlu, Tommaso Basili, Daniel Nuță, Selim Bayraktar, Tuba Büyüküstün, Damla Sönmez, Osman Sonant",
+    "plot": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+    "language": "English, Turkish",
+    "country": "Turkey",
+    "awards": "",
+    "moviePoster": "https://ibb.co/SwnPFZb",
+    "type": "series",
+    "images": [
+      "https://ibb.co/W6wvQMh",
+      "https://ibb.co/d2w9P5P",
+      "https://ibb.co/q5kQnPK",
+      "https://ibb.co/WkgDLNL",
+      "https://ibb.co/26QYrSp"
+    ]
   }
 ]
