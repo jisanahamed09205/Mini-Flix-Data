@@ -588,25 +588,29 @@
     "_id": "14",
     "featured": true,
     "title": "Avengers: Endgame",
-    "trailer": "",
-    "contentLink": "",
+    "trailer": "https://www.youtube.com/embed/TcMBFSGVi1c?si=WgK4CkzvSxYBJVSf",
+    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EYF66IZNySxCpJb3AoDBl1UBQGhxjLY-1uj1SmyhD-oUOg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PrnN6p",
     "quality": "BluRay(HD)",
-    "carouselImage": "",
-    "year": "2019",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Carousel%20Image/Avengers%20Endgame%20wide%20poster%20(1).jpg",
+    "year": "–2019",
     "publishDate": "April 26, 2019",
     "runtime": "181 min",
     "genre": "Sci-Fi, Superhero, Action, Adventure, Tragedy",
     "director": "Anthony Russo, Joe Russo",
-    "writer": "	Christopher Markus, Stephen McFeely, Stan Lee",
+    "writer": "Christopher Markus, Stephen McFeely, Stan Lee",
     "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira, Benedict Wong, Jon Favreau, Bradley Cooper, Gwyneth Paltrow, Josh Brolin",
     "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face...",
     "language": "English",
     "country": "United States",
     "awards": "Best Comic-to-Film Motion Picture Winner(2019)",
-    "moviePoster": "",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Avengers_Endgame_poster.jpg",
     "type": "movies",
     "images": [
-              
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%204.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%205.jpg"
     ]
   }
 ]
