@@ -6,7 +6,7 @@
     "contentLink": "",
     "quality": "BluRay(HD)",
     "carouselImage": "",
-    "year": "",
+    "year": "–",
     "publishDate": "",
     "runtime": "",
     "genre": "",
@@ -20,7 +20,12 @@
     "moviePoster": "",
     "type": "movie",
     "images": [
-              
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   }
   {
