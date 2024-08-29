@@ -116,12 +116,12 @@
   },
   {
     "_id": "03",
-    "featured": true,
+    "featured": false,
     "title": "Ant-Man",
     "trailer": "https://www.youtube.com/embed/pWdKf3MneyI?si=yKYrA7lmaWhDs5vo",
     "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EUHoyjPcmtpBqM5Qni4xd2oBQYQorZjwHRn2qkOb5lfp2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1IlcOe",
     "quality": "BluRay(HD)",
-    "carouselImage": "",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Carousel%20Image/Ant-Man%20wide%20poster.jpg",
     "year": "2015",
     "publishDate": "17 July, 2015",
     "runtime": "117 min",
@@ -133,10 +133,15 @@
     "language": "English",
     "country": "United States",
     "awards": "Best Comic-to-Film Motion Picture Winner(2016)",
-    "moviePoster": "",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Ant-Man_(film)_poster.jpg",
     "type": "movie",
     "images": [
-              
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%204.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%205.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%206.jpg"
     ]
   },
   {
