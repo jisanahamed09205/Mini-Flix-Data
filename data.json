@@ -151,7 +151,7 @@
     "trailer": "https://www.youtube.com/embed/8_rTIAOohas?si=AB9ImLYkefYm1hhT",
     "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EdjUZK76eZFDgmNgTMzw-EgB53Vu7aamKfvOvZq7tD9taA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=OoOcEs",
     "quality": "BluRay(HD)",
-    "carouselImage": "",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Carousel%20Image/Ant-Man_and_the_Wasp_Wide_Poster.jpg",
     "year": "–2018",
     "publishDate": "July 6, 2018",
     "runtime": "118 min",
@@ -163,15 +163,14 @@
     "language": "English",
     "country": "United States",
     "awards": "",
-    "moviePoster": "",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Ant-Man_and_the_Wasp_poster.jpg",
     "type": "movie",
     "images": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%20and%20the%20Wasp%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%20and%20the%20Wasp%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%20and%20the%20Wasp%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%20and%20the%20Wasp%204.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%20and%20the%20Wasp%205.jpg"
     ]
   },
   {
@@ -181,7 +180,7 @@
     "trailer": "https://www.youtube.com/embed/tmeOjFno6Do?si=Q5HyGGwUlxqPvK3f",
     "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/ESPp0JSJi0pGjDkfQ7GjugoBXK7lhD9weBkvwlXbgliZSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5Xju6n",
     "quality": "BluRay(HD)",
-    "carouselImage": "",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Carousel%20Image/Avengers%20Age%20of%20Ultron%20wide%20poster.jpg",
     "year": "–2015",
     "publishDate": "May 1, 2015",
     "runtime": "141 min",
@@ -193,15 +192,15 @@
     "language": "English",
     "country": "United States",
     "awards": "",
-    "moviePoster": "",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Avengers_Age_of_Ultron_poster.jpg",
     "type": "movie",
     "images": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Age%20of%20Ultron%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Age%20of%20Ultron%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Age%20of%20Ultron%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Age%20of%20Ultron%204.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Age%20of%20Ultron%205.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Age%20of%20Ultron%206.jpg"
     ]
   },
   {
@@ -211,7 +210,7 @@
     "trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8?si=dlvn0yRMgJdYm-Oi",
     "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/Ec8lijCGUYVJq85ApQ5dLQoBnDPSl-qdA9a0vaZ2Kct9OQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TxiB9M",
     "quality": "BluRay(HD)",
-    "carouselImage": "",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Carousel%20Image/Avengers%20Infinity%20War%20wide%20poster.jpg",
     "year": "–2018",
     "publishDate": "April 27, 2018",
     "runtime": "149 min",
@@ -223,15 +222,15 @@
     "language": "English",
     "country": "United States",
     "awards": "",
-    "moviePoster": "",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Avengers_Infinity_War_poster.jpg",
     "type": "movie",
     "images": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Infinity%20War%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Infinity%20War%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Infinity%20War%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Infinity%20War%204.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Infinity%20War%205.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Infinity%20War%206.jpg"
     ]
   }
 ]
