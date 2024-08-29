@@ -2,505 +2,6 @@
   {
     "_id": "01",
     "featured": true,
-    "title": "The Dark Knight",
-    "trailer": "https://www.youtube.com/embed/g8evyE9TuYk?si=yeXs656NFwKb96nL",
-    "contentLink": "//listeamed.net/v/27BaOn12KnvEMDX",
-    "quality": "BluRay(HD)",
-    "carouselImage": "https://ibb.co/QCwKXWC",
-    "year": "2009",
-    "publishDate": "July 14, 2008",
-    "runtime": "152 min",
-    "genre": "Superhero, Action, Crime, Drama, Thriller",
-    "director": "Christopher Nolan",
-    "writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
-    "actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
-    "plot": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
-    "language": "English",
-    "country": "United States, United Kingdom",
-    "awards": "Best Action/Adventure/Thriller Film Winner(2009)",
-    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/The_Dark_Knight_(2008_film).jpg?token=GHSAT0AAAAAACWCJFHNRJ76LPSRSWPD5MOQZWNQLLA",
-    "type": "movies",
-    "images": [
-      "https://ibb.co/VCD4k4P",
-      "https://ibb.co/tx3G2kx",
-      "https://ibb.co/xXxF0Nn",
-      "https://ibb.co/5TnvSSq",
-      "https://ibb.co/QJNZ1Jt",
-      "https://ibb.co/pZyHhrV"
-    ]
-  },
-  {
-    "_id": "02",
-    "featured": true,
-    "title": "Iron Man",
-    "trailer": "https://www.youtube.com/embed/8ugaeA-nMTc?si=qnYdM82sp2S9bE6M",
-    "contentLink": "//listeamed.net/v/qM1VOPN2D2dxo4k",
-    "quality": "BluRay(HD)",
-    "carouselImage": "https://ibb.co/2s9JQMf",
-    "year": "2008",
-    "publishDate": "April 14, 2008",
-    "runtime": "126 min",
-    "genre": "Sci-Fi, Superhero, Action, Adventure",
-    "director": "Jon Favreau",
-    "writer": "Mark FergusHawk, OstbyArt, Marcum",
-    "actors": "Robert Downey Jr., Gwyneth Paltrow, Terrence Howard",
-    "plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
-    "language": "English",
-    "country": "United States",
-    "awards": "Best Science Fiction Film Winner(2009)",
-    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Iron_Man_(2008_film)_poster.jpg?token=GHSAT0AAAAAACWCJFHMMAIF6WQ65CSUU6LIZWNQJBA",
-    "type": "movies",
-    "images": [
-      "https://ibb.co/khmg6qk",
-      "https://ibb.co/5Lhg2vP",
-      "https://ibb.co/xj04CzJ",
-      "https://ibb.co/ZfgQQ2H",
-      "https://ibb.co/GdZpBYh",
-      "https://ibb.co/bFXN00h"
-    ]
-  },
-  {
-    "_id": "03",
-    "featured": false,
-    "title": "The Incredible Hulk",
-    "trailer": "https://www.youtube.com/embed/O-f3TVN6BN8?si=YkEbs0AxkyBri3eC",
-    "contentLink": "//listeamed.net/v/YWA8E9wqK135GmM",
-    "quality": "BluRay(HD)",
-    "carouselImage": "https://ibb.co/7yPLQNh",
-    "year": "2008",
-    "publishDate": "june 13, 2008",
-    "runtime": "112 min",
-    "genre": "Sci-Fi, Superhero, Action, Adventure",
-    "director": "Louis Leterrier",
-    "writer": "Zak PennStan, LeeJack Kirby",
-    "actors": "Edward Norto, Liv Tyler, Tim Roth",
-    "plot": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper.",
-    "language": "English",
-    "country": "United States",
-    "awards": "Top Box Office Films Winner(2009)",
-    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/The_Incredible_Hulk_(film)_poster.jpg?token=GHSAT0AAAAAACWCJFHM53VB2S5FD34UOWW6ZWNQLNA",
-    "type": "movies",
-    "images": [
-      "https://ibb.co/yYtDc7S",
-      "https://ibb.co/s5KcrMR",
-      "https://ibb.co/n7JWF3q",
-      "https://ibb.co/gb0MhwC",
-      "https://ibb.co/hx0807X",
-      "https://ibb.co/JtfScDT"
-    ]
-  },
-  {
-    "_id": "04",
-    "featured": true,
-    "title": "X-Men Origins: Wolverine",
-    "trailer": "https://www.youtube.com/embed/8IxT7WFL6Ec?si=YHQ5xH1S0IM_dF8g",
-    "contentLink": "//listeamed.net/v/ZMVoEr8XY3q59Pa",
-    "quality": "BluRay(HD)",
-    "carouselImage": "https://ibb.co/t4JJyYj",
-    "year": "2009",
-    "publishDate": "April 9, 2009",
-    "runtime": "107 min",
-    "genre": "Superhero, Action, Sci-Fi",
-    "director": "Gavin Hood",
-    "writer": "David Benioff, Skip Woods",
-    "actors": "Hugh Jackman, Liev Schreiber, Ryan Reynolds",
-    "plot": "The early years of James Logan, featuring his rivalry with his brother Victor Creed, his service in the special forces team Weapon X, and his experimentation into the metal-lined mutant Wolverine.",
-    "language": "English",
-    "country": "United States",
-    "awards": "",
-    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/X-Men-Origins-Wolverine.jpg?token=GHSAT0AAAAAACWCJFHMNJPZ3ABPFBOI737SZWNQLRA",
-    "type": "movies",
-    "images": [
-      "https://ibb.co/qNvCpJk",
-      "https://ibb.co/g3QryhG",
-      "https://ibb.co/4N6mttT",
-      "https://ibb.co/gFymB82",
-      "https://ibb.co/ckX3YYM",
-      "https://ibb.co/zXkypYD"
-    ]
-  },
-  {
-    "_id": "05",
-    "featured": false,
-    "title": "Iron Man 2",
-    "trailer": "https://www.youtube.com/embed/BoohRoVA9WQ?si=WIdNQi38iV0J_mQe",
-    "contentLink": "//listeamed.net/v/njJYOd3MVa1Ee9o",
-    "quality": "BluRay(HD)",
-    "carouselImage": "https://ibb.co/0CKTjJX",
-    "year": "2010",
-    "publishDate": "May 7, 2010",
-    "runtime": "125 min",
-    "genre": "Superhero, Action, Sci-Fi",
-    "director": "Jon Favreau",
-    "writer": "Justin Theroux Stan Lee Don Heck",
-    "actors": "Robert Downey Jr. Mickey Rourke Gwyneth Paltrow",
-    "plot": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
-    "language": "English",
-    "country": "United States",
-    "awards": "Top Box Office Films Winner(2011)",
-    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Iron_Man_2_poster.jpg?token=GHSAT0AAAAAACWCJFHMHE6NLE5MQO5LHZTAZWNQJSA",
-    "type": "movies",
-    "images": [
-      "https://ibb.co/fnTk9MX",
-      "https://ibb.co/8Dy8CmX",
-      "https://ibb.co/SRbbwXs",
-      "https://ibb.co/nCLhqFb",
-      "https://ibb.co/t4KX4w0",
-      "https://ibb.co/58SfYdD"
-    ]
-  },
-  {
-    "_id": "06",
-    "featured": true,
-    "title": "X-Men: First Class",
-    "trailer": "https://www.youtube.com/embed/kyQKi5-k0UU?si=RK3H5ZfZpnEaA--M",
-    "contentLink": "//listeamed.net/v/VqbX53gqQJq5Qzp",
-    "quality": "BluRay(HD)",
-    "carouselImage": "https://ibb.co/NtxLw0s",
-    "year": "2011",
-    "publishDate": "June 3, 2011",
-    "runtime": "132 min",
-    "genre": "Superhero, Action, Sci-Fi",
-    "director": "Matthew Vaughn",
-    "writer": "Ashley Miller, Zack Stentz, Jane Goldman",
-    "actors": "James McAvoy Michael Fassbender Jennifer Lawrence",
-    "plot": "The first class of X-Men, led by two very powerful mutants named Charles Xavier and Eric Lensherr, join together to stop a ruthless and powerful dictator from thrusting Russia and the U.S. into nuclear war. But Eric has his own agenda, and it soon rips him and his best friend apart.",
-    "language": "English",
-    "country": "United States, United Kingdom",
-    "awards": "Top Box Office Films Winner(2012)",
-    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/X-MenFirstClassMoviePoster.jpg?token=GHSAT0AAAAAACWCJFHNNFKJUXH3IHLI7DVIZWNQLTA",
-    "type": "movies",
-    "images": [
-      "https://ibb.co/WsK7JgK",
-      "https://ibb.co/B3z0SdK",
-      "https://ibb.co/xqL1Y2d",
-      "https://ibb.co/RT5s2Gw",
-      "https://ibb.co/ynR742J"
-    ]
-  },
-  {
-    "_id": "07",
-    "featured": true,
-    "title": "Ghost Rider: Spirit of Vengeance",
-    "trailer": "https://www.youtube.com/embed/UUObgxCoUgA?si=iLfl-7AfNyuPFIPQ",
-    "contentLink": "//listeamed.net/v/MAlwEMYb2wqEJ39",
-    "quality": "BluRay(HD)",
-    "carouselImage": "https://ibb.co/NW1C4kp",
-    "year": "2012",
-    "publishDate": "February 17, 2012",
-    "runtime": "95 min",
-    "genre": "Superhero, Action, Fantasy, Thriller",
-    "director": "Mark Neveldine, Brian Taylor",
-    "writer": "Scott M. Gimple Seth Hoffman David S. Goyer",
-    "actors": "Nicolas Cage Ciarán Hinds Idris Elba",
-    "plot": "Johnny Blaze, tortured by the Ghost Rider's curse, gets a chance of redemption through protecting the Devil's son, whose father is pursuing him.",
-    "language": "English",
-    "country": "United States",
-    "awards": "",
-    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Ghost%20Rider%20Spirit%20of%20Vengeance.jpg?token=GHSAT0AAAAAACWCJFHMA5ZPBM6NDPONLO3EZWNQIPQ",
-    "type": "movies",
-    "images": [
-      "https://ibb.co/WVQjTtz",
-      "https://ibb.co/XFHgm2h",
-      "https://ibb.co/pWvP69T",
-      "https://ibb.co/kHcFXrz",
-      "https://ibb.co/VxVqWVL"
-    ]
-  },
-  {
-    "_id": "08",
-    "featured": true,
-    "title": "Thor",
-    "trailer": "https://www.youtube.com/embed/JOddp-nlNvQ?si=Nz6iHyxlSyHQcKG3",
-    "contentLink": "//listeamed.net/v/rabVOQQwkz3OKdW",
-    "quality": "BluRay(HD)",
-    "carouselImage": "https://ibb.co/vYDjBPL",
-    "year": "2011",
-    "publishDate": "May 6, 2011",
-    "runtime": "114 min",
-    "genre": "Superhero, Action, Fantasy",
-    "director": "Kenneth Branagh",
-    "writer": "Ashley Miller, Zack Stentz, Don Payne",
-    "actors": "Chris Hemsworth, Anthony Hopkins, Natalie Portman",
-    "plot": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
-    "language": "English",
-    "country": "United States",
-    "awards": "Top Box Office Films Winner(2012)",
-    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Thor_(film)_poster.jpg?token=GHSAT0AAAAAACWCJFHNLNKM7OU6FQN55XIUZWNQLPA",
-    "type": "movies",
-    "images": [
-      "https://ibb.co/dmqzpYW",
-      "https://ibb.co/bK3JY7b",
-      "https://ibb.co/Th682cS",
-      "https://ibb.co/z5mytZ1"
-    ]
-  },
-  {
-    "_id": "09",
-    "featured": true,
-    "title": "Captain America: The First Avenger",
-    "trailer": "https://www.youtube.com/embed/JerVrbLldXw?si=OMmswkTTRpqP2N_a",
-    "contentLink": "//listeamed.net/v/4bQVOj7vL095wKm",
-    "quality": "BluRay(HD)",
-    "carouselImage": "https://ibb.co/N157w0F",
-    "year": "2011",
-    "publishDate": "July 22, 2011",
-    "runtime": "124 min",
-    "genre": "Sci-Fi, Superhero, Action, Adventure",
-    "director": "Joe Johnston",
-    "writer": "Christopher Markus, Stephen McFeely, Joe Simon",
-    "actors": "Chris Evans, Hugo Weaving, Samuel L. Jackson",
-    "plot": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a 'Super-Soldier serum'. But being Captain America comes at a price as he attempts to take down a warmonger and a terrorist organization.",
-    "language": "English",
-    "country": "United States",
-    "awards": "",
-    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Captain_America_The_First_Avenger_poster.jpg?token=GHSAT0AAAAAACWCJFHNTINP3QGFHCWBFH6AZWNQHWQ",
-    "type": "movies",
-    "images": [
-      "https://ibb.co/ck30wPp",
-      "https://ibb.co/MhnYjnB",
-      "https://ibb.co/8mkR28z",
-      "https://ibb.co/mGfvLCQ",
-      "https://ibb.co/N2SyJcs"
-    ]
-  },
-  {
-    "_id": "10",
-    "featured": false,
-    "title": "The Amazing Spider-Man",
-    "trailer": "https://www.youtube.com/embed/-tnxzJ0SSOw?si=WhsiPjumy_8L5yn1",
-    "contentLink": "//listeamed.net/v/dNjgOl4RdDDO9Wn",
-    "quality": "BluRay(HD)",
-    "carouselImage": "https://ibb.co/SP8t5JR",
-    "year": "2012",
-    "publishDate": "July 3, 2012",
-    "runtime": "136 min",
-    "genre": "Sci-Fi, Superhero, Action, Adventure",
-    "director": "Mard Webb",
-    "writer": "James Vanderbilt, Alvin Sargent, Steve Kloves",
-    "actors": "Andrew Garfield, Emma Stone, Rhys Ifans",
-    "plot": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.",
-    "language": "English",
-    "country": "United States",
-    "awards": "Top Box Office Films Winner(2013)",
-    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/The_Amazing_Spider-Man_(film)_poster.jpg?token=GHSAT0AAAAAACWCJFHM32BW4DDWO7WALZVOZWNQK6A",
-    "type": "movies",
-    "images": [
-      "https://ibb.co/Tkfgdyz",
-      "https://ibb.co/9ZRBP0Y",
-      "https://ibb.co/fDwQNLJ",
-      "https://ibb.co/jrts5wG",
-      "https://ibb.co/tqb7ppW"
-    ]
-  },
-  {
-    "_id": "11",
-    "featured": true,
-    "title": "The Avengers",
-    "trailer": "https://www.youtube.com/embed/eOrNdBpGMv8?si=y2RHoQ02XYGq1Z2B",
-    "contentLink": "//listeamed.net/v/6zeREaDmoAZxZPa",
-    "quality": "BluRay(HD)",
-    "carouselImage": "https://ibb.co/SR2V4Pc",
-    "year": "2012",
-    "publishDate": "May 4, 2012",
-    "runtime": "143 min",
-    "genre": "Sci-Fi, Superhero, Action",
-    "director": "Joss Whedon",
-    "writer": "Joss Whedon, Zak Penn",
-    "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Stellan Skarsgård, Samuel L. Jackson",
-    "plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
-    "language": "English",
-    "country": "United States",
-    "awards": "Best Science Fiction Film Winner(2013)",
-    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/The_Avengers_(2012_film)_poster.jpg?token=GHSAT0AAAAAACWCJFHMRYR2L3X7KLG4KHGMZWNQLIQ",
-    "type": "movies",
-    "images": [
-      "https://ibb.co/tmh9XSC",
-      "https://ibb.co/7YNZ6dn",
-      "https://ibb.co/N2wWZV3",
-      "https://ibb.co/hyZ0xwh",
-      "https://ibb.co/qkmGyh2",
-      "https://ibb.co/HTbkc1s"
-    ]
-  },
-  {
-    "_id": "12",
-    "featured": true,
-    "title": "The Boys",
-    "trailer": "https://www.youtube.com/embed/M1bhOaLV4FU?si=wlt_9pssWw4qOjvC",
-    "contentLink": {
-      "season1": {
-        "episodes": [
-          {
-            "episode": "Episode 1",
-            "link": "https://drop.download/7ifn7564m6i1"
-          },
-          {
-            "episode": "Episode 2",
-            "link": "https://drop.download/ztkrgx0steym"
-          },
-          {
-            "episode": "Episode 3",
-            "link": "https://drop.download/iaje9bq6wtgb"
-          },
-          {
-            "episode": "Episode 4",
-            "link": "https://drop.download/yp92poafth8m"
-          },
-          {
-            "episode": "Episode 5",
-            "link": "https://drop.download/u2q47973re0i"
-          },
-          {
-            "episode": "Episode 6",
-            "link": "https://drop.download/6xnxdtms0tc5"
-          },
-          {
-            "episode": "Episode 7",
-            "link": "https://drop.download/3o8ktcstlv0e"
-          },
-          {
-            "episode": "Episode 8",
-            "link": "https://drop.download/w6opj0jf8jq6"
-          }
-        ]
-      },
-      "season2": {
-        "episodes": [
-          {
-            "episode": "Episode 1",
-            "link": "https://drop.download/q4fzk1848jqd"
-          },
-          {
-            "episode": "Episode 2",
-            "link": "https://drop.download/6xvatqwvljr9"
-          },
-          {
-            "episode": "Episode 3",
-            "link": "https://drop.download/ij3lm1n7c7f4"
-          },
-          {
-            "episode": "Episode 4",
-            "link": "https://drop.download/g87orvdw111z"
-          },
-          {
-            "episode": "Episode 5",
-            "link": "https://drop.download/g73310oco09m"
-          },
-          {
-            "episode": "Episode 6",
-            "link": "https://drop.download/2nvdolpfant1"
-          },
-          {
-            "episode": "Episode 7",
-            "link": "https://drop.download/qc30i8auo0wh"
-          },
-          {
-            "episode": "Episode 8",
-            "link": "https://drop.download/s6unqhrqr7y1"
-          }
-        ]
-      },
-      "season3": {
-        "episodes": [
-          {
-            "episode": "Episode 1",
-            "link": "https://drop.download/0obwb62nqzaf"
-          },
-          {
-            "episode": "Episode 2",
-            "link": "https://drop.download/92hew9tvu9jz"
-          },
-          {
-            "episode": "Episode 3",
-            "link": "https://drop.download/drrcmt0ycodm"
-          },
-          {
-            "episode": "Episode 4",
-            "link": "https://drop.download/4u8ofc4xfpzi"
-          },
-          {
-            "episode": "Episode 5",
-            "link": "https://drop.download/zdfec5or949c"
-          },
-          {
-            "episode": "Episode 6",
-            "link": "https://drop.download/eotsnkrbzw35"
-          },
-          {
-            "episode": "Episode 7",
-            "link": "https://drop.download/6pov301wc0ob"
-          },
-          {
-            "episode": "Episode 8",
-            "link": "https://drop.download/akl4lvh1e0ie"
-          }
-        ]
-      },
-      "season4": {
-        "episodes": [
-          {
-            "episode": "Episode 1",
-            "link": ""
-          },
-          {
-            "episode": "Episode 2",
-            "link": ""
-          },
-          {
-            "episode": "Episode 3",
-            "link": ""
-          },
-          {
-            "episode": "Episode 4",
-            "link": ""
-          },
-          {
-            "episode": "Episode 5",
-            "link": ""
-          },
-          {
-            "episode": "Episode 6",
-            "link": ""
-          },
-          {
-            "episode": "Episode 7",
-            "link": ""
-          },
-          {
-            "episode": "Episode 8",
-            "link": ""
-          }
-        ]
-      }
-    },
-    "quality": "BluRay(HD)",
-    "carouselImage": "https://ibb.co/9908DQw",
-    "year": "–July 26, 2019 – present",
-    "publishDate": "2019",
-    "runtime": "55–68 min",
-    "genre": "Sci-Fi, Superhero, Action, Comedy, Crime, Drama, Satire",
-    "director": "Eric Kripke",
-    "writer": "",
-    "actors": "Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty, Dominique McElligott, Jessie T. Usher, Laz Alonso, Chace Crawford, Tomer Capone, Karen Fukuhara, Nathan Mitchell, Elisabeth Shue, Colby Minifie, Aya Cash, Claudia Doumit, Jensen Ackles, Cameron Crovetti, Susan Heyward, Valorie Curry, Jeffrey Dean Morgan",
-    "plot": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
-    "language": "English",
-    "country": "United States",
-    "awards": "Best Streaming Action & Adventure Series Winner(2022)",
-    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/The%20Boys.jpg?token=GHSAT0AAAAAACWCJFHMWAGYFB37LDFHBKR6ZWNQKUQ",
-    "type": "series",
-    "images": [
-      "https://ibb.co/37ST55J",
-      "https://ibb.co/2d7p5Sx",
-      "https://ibb.co/HXz1JzW",
-      "https://ibb.co/HCMWFS2",
-      "https://ibb.co/s6H82H3",
-      "https://ibb.co/SVZdjYT"
-    ]
-  },
-  {
-    "_id": "13",
-    "featured": true,
     "title": "Rise of Empires: Ottoman",
     "trailer": "https://www.youtube.com/embed/t3ISUY0l0WQ?si=VAsDeyB2NQFK_LFJ",
     "contentLink": {
@@ -565,7 +66,7 @@
     "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Carousel%20Image/Rise_of_empires_ottoman%20wide%20poster.jpg",
     "year": "–2020-2022",
     "publishDate": "24 January, 2020",
-    "runtime": "45 min",
+    "runtime": "",
     "genre": "History, War, Documentary, Drama, Docuseries",
     "director": "Emre Şahin",
     "writer": "Kelly McPherson",
@@ -585,11 +86,11 @@
     ]
   },
   {
-    "_id": "14",
+    "_id": "02",
     "featured": true,
     "title": "Avengers: Endgame",
     "trailer": "https://www.youtube.com/embed/TcMBFSGVi1c?si=WgK4CkzvSxYBJVSf",
-    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EYF66IZNySxCpJb3AoDBl1UBQGhxjLY-1uj1SmyhD-oUOg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hM1JtA",
+    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EVfAZrCBnb1MvIFwqex_FjwBxaHOP912y140ym0_re-COw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qIdjoT",
     "quality": "BluRay(HD)",
     "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Carousel%20Image/Avengers%20Endgame%20wide%20poster%20(1).jpg",
     "year": "–2019",
@@ -604,13 +105,563 @@
     "country": "United States",
     "awards": "Best Comic-to-Film Motion Picture Winner(2019)",
     "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Avengers_Endgame_poster.jpg",
-    "type": "movies",
+    "type": "movie",
     "images": [
       "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%201.jpg",
       "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%202.jpg",
       "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%203.jpg",
       "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%204.jpg",
       "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%205.jpg"
+    ]
+  },
+  {
+    "_id": "03",
+    "featured": true,
+    "title": "Ant-Man",
+    "trailer": "https://www.youtube.com/embed/pWdKf3MneyI?si=yKYrA7lmaWhDs5vo",
+    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EUHoyjPcmtpBqM5Qni4xd2oBQYQorZjwHRn2qkOb5lfp2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1IlcOe",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "2015",
+    "publishDate": "17 July, 2015",
+    "runtime": "117 min",
+    "genre": "Sci-Fi, Superhero, Action, Comedy",
+    "director": "Peyton Reed",
+    "writer": "Edgar Wright, Joe Cornish, Adam McKay, Paul Rudd",
+    "actors": "Paul Rudd, Evangeline Lilly, Corey Stoll, Bobby Cannavale, Michael Peña, Tip 'T.I.' Harris, Anthony Mackie, Wood Harris, Judy Greer, Abby Ryder Fortson, David Dastmalchian, Michael Douglas",
+    "plot": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+    "language": "English",
+    "country": "United States",
+    "awards": "Best Comic-to-Film Motion Picture Winner(2016)",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "04",
+    "featured": true,
+    "title": "Ant-Man and the Wasp",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "05",
+    "featured": true,
+    "title": "Avengers: Age of Ultron",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "06",
+    "featured": true,
+    "title": "Avengers: Infinity War",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "07",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "08",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "09",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "10",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "11",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "12",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "13",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "14",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "15",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "16",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "17",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "18",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "19",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "20",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "21",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "22",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "23",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
+    ]
+  },
+  {
+    "_id": "24",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+              
     ]
   }
 ]
