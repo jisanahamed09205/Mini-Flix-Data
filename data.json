@@ -232,5 +232,33 @@
       "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Infinity%20War%205.jpg",
       "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Infinity%20War%206.jpg"
     ]
+  },
+  {
+    "_id": "07",
+    "featured": true,
+    "title": "Sector 36",
+    "trailer": "https://www.youtube.com/embed/eES65pr2POM?si=43tQM7Pwlv0e8SmC",
+    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EWzkJ5SqllRFnfNIQeWMFngBOq7sXYtfOyQF_dlhLk_L1Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=u2hVzR",
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Carousel%20Image/Sector%2036%20.jpg",
+    "year": "–2024",
+    "publishDate": "13 September 2024",
+    "runtime": "124 min",
+    "genre": "Thriller",
+    "director": "Aditya Nimbalkar",
+    "writer": "Bodhayan Roychaudhury",
+    "actors": "Vikrant Massey, Deepak Dobriyal, Akash Khurana",
+    "plot": "A fictional story Inspired by true events, several children go missing from a basti (slum) in Sector 36. A determined police officer must now face off with a cunning serial killer as a chilling investigation and dark secrets unfold.",
+    "language": "Hindi",
+    "country": "India",
+    "awards": "",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Poster/Sector_36.jpg",
+    "type": "movie",
+    "images": [
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Sector%2036%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Sector%2036%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Sector%2036%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Sector%2036%204.jpg"
+    ]
   }
 ]
