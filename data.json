@@ -263,12 +263,12 @@
   },
   {
     "_id": "01",
-    "featured": true,
+    "featured": false,
     "title": "Ant-Man and the Wasp: Quantumania",
     "trailer": "https://www.youtube.com/embed/ZlNFpri-Y40?si=Lk7ayeAEF03dgCns",
     "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/Ee9r7M-5QeBAsR_meOUBQ-MBrOLODbQQiw6ZIhyVOaUu-g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9RbDXv",
     "quality": "BluRay(HD)",
-    "carouselImage": "",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Carousel%20Image/ant%20man%20and%20the%20wasp%20quantumaina%20(1).jpg",
     "year": "–2023",
     "publishDate": "February 6, 2023",
     "runtime": "124 min",
@@ -288,6 +288,36 @@
       "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Ant-Man_and_the_Wasp_Quantumania%203.jpg",
       "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Ant-Man_and_the_Wasp_Quantumania%204.jpg",
       "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Ant-Man_and_the_Wasp_Quantumania%205.jpg"
+    ]
+  },
+  {
+    "_id": "01",
+    "featured": true,
+    "title": "The Dark Knight",
+    "trailer": "https://www.youtube.com/embed/g8evyE9TuYk?si=C3a3I37W4A2fkEDp",
+    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EX4J6hRHJZ9Osod0qgAuh2UBuDWD86D--x7kQSDE2c4XGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6q6csF",
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Carousel%20Image/the%20dark%20knight%20wide%20poster%20(1).jpg",
+    "year": "–2008",
+    "publishDate": "JUly 18, 2008",
+    "runtime": "152 min",
+    "genre": "Action, Adventure, Drama",
+    "director": "Christopher Nolan",
+    "writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
+    "actors": "Christian Bale, Michael Caine, Heath Ledger, Gary Oldman, Aaron Eckhart, Maggie Gyllenhaal, Morgan Freeman",
+    "plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+    "language": "English",
+    "country": "United States, United Kingdom",
+    "awards": "Best Action/Adventure/Thriller Film in 2018",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Poster/The_Dark_Knight_(2008_film).jpg",
+    "type": "movie",
+    "images": [
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/The%20Dark%20Knight%20Ss.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/The%20Dark%20Knight%20Ss1.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/The%20Dark%20Knight%20Ss2.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/The%20Dark%20Knight%20Ss3.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/The%20Dark%20Knight%20Ss4.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/The%20Dark%20Knight%20Ss5.jpg"
     ]
   }
 ]
