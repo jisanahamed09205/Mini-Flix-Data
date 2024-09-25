@@ -260,5 +260,34 @@
       "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Sector%2036%203.jpg",
       "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Sector%2036%204.jpg"
     ]
+  },
+  {
+    "_id": "01",
+    "featured": true,
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "trailer": "https://www.youtube.com/embed/ZlNFpri-Y40?si=Lk7ayeAEF03dgCns",
+    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/Ee9r7M-5QeBAsR_meOUBQ-MBrOLODbQQiw6ZIhyVOaUu-g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9RbDXv",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "–2023",
+    "publishDate": "February 6, 2023",
+    "runtime": "124 min",
+    "genre": "Sci-Fi, Superhero, Action, Adventure, Comedy",
+    "director": "Peyton Reed",
+    "writer": "Jeff Loveness",
+    "actors": "Paul Rudd, Evangeline Lilly, Jonathan Majors, Kathryn Newton, David Dastmalchian, Katy O'Brian, William Jackson Harper, Bill Murray, Michelle Pfeiffer, Corey Stoll, Michael Douglas",
+    "plot": "Scott Lang and Hope Van Dyne are dragged into the Quantum Realm, along with Hope's parents and Scott's daughter Cassie. Together they must find a way to escape, but what secrets is Hope's mother hiding? And who is the mysterious Kang?",
+    "language": "English",
+    "country": "United States",
+    "awards": "",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Poster/Ant-Man_and_the_Wasp_Quantumania_poster.jpg",
+    "type": "movie",
+    "images": [
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Ant-Man_and_the_Wasp_Quantumania%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Ant-Man_and_the_Wasp_Quantumania%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Ant-Man_and_the_Wasp_Quantumania%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Ant-Man_and_the_Wasp_Quantumania%204.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Ant-Man_and_the_Wasp_Quantumania%205.jpg"
+    ]
   }
 ]
