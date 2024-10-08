@@ -319,5 +319,35 @@
       "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/The%20Dark%20Knight%20Ss4.jpg",
       "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/The%20Dark%20Knight%20Ss5.jpg"
     ]
+  },
+  {
+    "_id": "10",
+    "featured": true,
+    "title": "",
+    "trailer": "",
+    "contentLink": "",
+    "quality": "BluRay(HD)",
+    "carouselImage": "",
+    "year": "–",
+    "publishDate": "",
+    "runtime": "",
+    "genre": "",
+    "director": "",
+    "writer": "",
+    "actors": "",
+    "plot": "",
+    "language": "",
+    "country": "",
+    "awards": "",
+    "moviePoster": "",
+    "type": "movie",
+    "images": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
   }
 ]
