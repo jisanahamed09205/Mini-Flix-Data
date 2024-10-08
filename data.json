@@ -1,0 +1,323 @@
+[
+  {
+    "_id": "01",
+    "featured": true,
+    "title": "Rise of Empires: Ottoman",
+    "trailer": "https://www.youtube.com/embed/t3ISUY0l0WQ?si=VAsDeyB2NQFK_LFJ",
+    "contentLink": {
+      "season1": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EdPfpiP5qzZDg9cNjq8DX0ABf_eAt4RvhQ0KfvKh-17Xaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gAl6Ga"
+          },
+          {
+            "episode": "Episode 2",
+            "link": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EYF9haZyRxtIk32uSuZNMnkB2zb-qZnYT0HO3uncej_HEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Y0mmxo"
+          },
+          {
+            "episode": "Episode 3",
+            "link": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EZzMySn3EWRMgv8ogMkeStwBKBhFhRa6PiuIHCUXvRrJqg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vuqRav"
+          },
+          {
+            "episode": "Episode 4",
+            "link": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EXuLLcxirgRFgC1hhpyRPtUB7qNkOgZoP-ge7JZx3eqESQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZICE7n"
+          },
+          {
+            "episode": "Episode 5",
+            "link": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/ETLAzmtndYhNsOXQQ5pcA7gB-uk5FyLSekxxyBx8GoqT0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HUEnJX"
+          },
+          {
+            "episode": "Episode 6",
+            "link": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EXVuzZXqbl1Nq4OH70nKD2YBXAdHYDiRXYPBFYiJ6tdRWA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DZr0Yp"
+          }
+        ]
+      },
+      "season2": {
+        "episodes": [
+          {
+            "episode": "Episode 1",
+            "link": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/Efngw-wUuCZBjKqMz4ozy0ABpHaZIpmwDahIApzivyyZ4w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=alerTR"
+          },
+          {
+            "episode": "Episode 2",
+            "link": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/ESG86QgcrQZBsBqY39wecJ4BBgFXkSi9dbooA3rK0dToPQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0WP1H8"
+          },
+          {
+            "episode": "Episode 3",
+            "link": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EW7x964BBKhKhnpyPSdqcCkBWlAONmeB6vdctJTCM89S8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xSe721"
+          },
+          {
+            "episode": "Episode 4",
+            "link": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EQioIYvtkppNllgKmO2qn3cBjlhTvs5faQGaoTRYDbX3Cg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nAkX4G"
+          },
+          {
+            "episode": "Episode 5",
+            "link": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EfaBZBlzZjxOg6DGTTh7sDwBGUqVycXBBWdvk1o7DabQKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Yl2HU6"
+          },
+          {
+            "episode": "Episode 6",
+            "link": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/ERlR1NYMu5dBuzc1ycxLWvkBoUTRr7K16YN5sRNBsLpsxA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1EA0Zj"
+          }
+        ]
+      }
+    },
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Carousel%20Image/Rise_of_empires_ottoman%20wide%20poster.jpg",
+    "year": "–2020-2022",
+    "publishDate": "24 January, 2020",
+    "runtime": "",
+    "genre": "History, War, Documentary, Drama, Docuseries",
+    "director": "Emre Şahin",
+    "writer": "Kelly McPherson",
+    "actors": "Cem Yiğit Üzümoğlu, Tommaso Basili, Daniel Nuță, Selim Bayraktar, Tuba Büyüküstün, Damla Sönmez, Osman Sonant",
+    "plot": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+    "language": "English, Turkish",
+    "country": "Turkey",
+    "awards": "",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Rise_of_empires_ottoman.jpg",
+    "type": "series",
+    "images": [
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Rise_of_empires_ottoman%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Rise_of_empires_ottoman%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Rise_of_empires_ottoman%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Rise_of_empires_ottoman%204.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Rise_of_empires_ottoman%205.jpg"
+    ]
+  },
+  {
+    "_id": "02",
+    "featured": true,
+    "title": "Avengers: Endgame",
+    "trailer": "https://www.youtube.com/embed/TcMBFSGVi1c?si=WgK4CkzvSxYBJVSf",
+    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EVfAZrCBnb1MvIFwqex_FjwBxaHOP912y140ym0_re-COw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qIdjoT",
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Carousel%20Image/Avengers%20Endgame%20wide%20poster%20(1).jpg",
+    "year": "–2019",
+    "publishDate": "April 26, 2019",
+    "runtime": "181 min",
+    "genre": "Sci-Fi, Superhero, Action, Adventure, Tragedy",
+    "director": "Anthony Russo, Joe Russo",
+    "writer": "Christopher Markus, Stephen McFeely, Stan Lee",
+    "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira, Benedict Wong, Jon Favreau, Bradley Cooper, Gwyneth Paltrow, Josh Brolin",
+    "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face...",
+    "language": "English",
+    "country": "United States",
+    "awards": "Best Comic-to-Film Motion Picture Winner(2019)",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Avengers_Endgame_poster.jpg",
+    "type": "movie",
+    "images": [
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%204.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Endgame%205.jpg"
+    ]
+  },
+  {
+    "_id": "03",
+    "featured": false,
+    "title": "Ant-Man",
+    "trailer": "https://www.youtube.com/embed/pWdKf3MneyI?si=yKYrA7lmaWhDs5vo",
+    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EUHoyjPcmtpBqM5Qni4xd2oBQYQorZjwHRn2qkOb5lfp2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1IlcOe",
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Carousel%20Image/Ant-Man%20wide%20poster.jpg",
+    "year": "–2015",
+    "publishDate": "July 17, 2015",
+    "runtime": "117 min",
+    "genre": "Sci-Fi, Superhero, Action, Comedy",
+    "director": "Peyton Reed",
+    "writer": "Edgar Wright, Joe Cornish, Adam McKay, Paul Rudd",
+    "actors": "Paul Rudd, Evangeline Lilly, Corey Stoll, Bobby Cannavale, Michael Peña, Tip 'T.I.' Harris, Anthony Mackie, Wood Harris, Judy Greer, Abby Ryder Fortson, David Dastmalchian, Michael Douglas",
+    "plot": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+    "language": "English",
+    "country": "United States",
+    "awards": "Best Comic-to-Film Motion Picture Winner(2016)",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Ant-Man_(film)_poster.jpg",
+    "type": "movie",
+    "images": [
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%204.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%205.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%206.jpg"
+    ]
+  },
+  {
+    "_id": "04",
+    "featured": false,
+    "title": "Ant-Man and the Wasp",
+    "trailer": "https://www.youtube.com/embed/8_rTIAOohas?si=AB9ImLYkefYm1hhT",
+    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EdjUZK76eZFDgmNgTMzw-EgB53Vu7aamKfvOvZq7tD9taA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=OoOcEs",
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Carousel%20Image/Ant-Man_and_the_Wasp_Wide_Poster.jpg",
+    "year": "–2018",
+    "publishDate": "July 6, 2018",
+    "runtime": "118 min",
+    "genre": "Sci-Fi, Superhero, Action, Adventure, Comedy",
+    "director": "Peyton Reed",
+    "writer": "Chris McKenna, Erik Sommers, Paul Rudd, Andrew Barrer, Gabriel Ferrari",
+    "actors": "Paul Rudd, Evangeline Lilly, Michael Peña, Walton Goggins, Hannah John-Kamen, David Dastmalchian, Tip 'T.I.' Harris, Judy Greer, Bobby Cannavale, Randall Park, Abby Ryder Fortson, Michelle Pfeiffer, Laurence Fishburne, Michael Douglas",
+    "plot": "As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
+    "language": "English",
+    "country": "United States",
+    "awards": "",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Ant-Man_and_the_Wasp_poster.jpg",
+    "type": "movie",
+    "images": [
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%20and%20the%20Wasp%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%20and%20the%20Wasp%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%20and%20the%20Wasp%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%20and%20the%20Wasp%204.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Ant-Man%20and%20the%20Wasp%205.jpg"
+    ]
+  },
+  {
+    "_id": "05",
+    "featured": true,
+    "title": "Avengers: Age of Ultron",
+    "trailer": "https://www.youtube.com/embed/tmeOjFno6Do?si=Q5HyGGwUlxqPvK3f",
+    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/ESPp0JSJi0pGjDkfQ7GjugoBXK7lhD9weBkvwlXbgliZSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5Xju6n",
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Carousel%20Image/Avengers%20Age%20of%20Ultron%20wide%20poster.jpg",
+    "year": "–2015",
+    "publishDate": "May 1, 2015",
+    "runtime": "141 min",
+    "genre": "Sci-Fi, Superhero, Action, Adventure, Artificial Intelligence",
+    "director": "Joss Whedon",
+    "writer": "Joss Whedon, Stan Lee",
+    "actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner, Don Cheadle, Aaron Taylor-Johnson, Elizabeth Olsen, Paul Bettany, Cobie Smulders, Anthony Mackie, Hayley Atwell, Idris Elba, Linda Cardellini, Stellan Skarsgård, James Spader, Samuel L. Jackson",
+    "plot": "Tony Stark creates the Ultron Program to protect the world, but when the peacekeeping program becomes hostile, The Avengers go into action to try and defeat a virtually impossible enemy together. Earth's mightiest heroes must come together once again to protect the world from global extinction.",
+    "language": "English",
+    "country": "United States",
+    "awards": "",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Avengers_Age_of_Ultron_poster.jpg",
+    "type": "movie",
+    "images": [
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Age%20of%20Ultron%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Age%20of%20Ultron%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Age%20of%20Ultron%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Age%20of%20Ultron%204.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Age%20of%20Ultron%205.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Age%20of%20Ultron%206.jpg"
+    ]
+  },
+  {
+    "_id": "06",
+    "featured": true,
+    "title": "Avengers: Infinity War",
+    "trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8?si=dlvn0yRMgJdYm-Oi",
+    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/Ec8lijCGUYVJq85ApQ5dLQoBnDPSl-qdA9a0vaZ2Kct9OQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TxiB9M",
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Carousel%20Image/Avengers%20Infinity%20War%20wide%20poster.jpg",
+    "year": "–2018",
+    "publishDate": "April 27, 2018",
+    "runtime": "149 min",
+    "genre": "Sci-Fi, Superhero, Action, Adventure",
+    "director": "Anthony Russo, Joe Russo",
+    "writer": "Christopher Markus, Stephen McFeely, Stan Lee",
+    "actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Benedict Cumberbatch, Don Cheadle, Tom Holland, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Anthony Mackie, Sebastian Stan, Danai Gurira, Letitia Wright, Dave Bautista, Zoe Saldaña, Josh Brolin, Chris Pratt",
+    "plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "language": "English",
+    "country": "United States",
+    "awards": "",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Poster/Avengers_Infinity_War_poster.jpg",
+    "type": "movie",
+    "images": [
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Infinity%20War%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Infinity%20War%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Infinity%20War%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Infinity%20War%204.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Infinity%20War%205.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/main/images/Screenshot/Avengers%20Infinity%20War%206.jpg"
+    ]
+  },
+  {
+    "_id": "07",
+    "featured": true,
+    "title": "Sector 36",
+    "trailer": "https://www.youtube.com/embed/eES65pr2POM?si=43tQM7Pwlv0e8SmC",
+    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EWzkJ5SqllRFnfNIQeWMFngBOq7sXYtfOyQF_dlhLk_L1Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=u2hVzR",
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Carousel%20Image/Sector%2036%20.jpg",
+    "year": "–2024",
+    "publishDate": "13 September 2024",
+    "runtime": "124 min",
+    "genre": "Thriller",
+    "director": "Aditya Nimbalkar",
+    "writer": "Bodhayan Roychaudhury",
+    "actors": "Vikrant Massey, Deepak Dobriyal, Akash Khurana",
+    "plot": "A fictional story Inspired by true events, several children go missing from a basti (slum) in Sector 36. A determined police officer must now face off with a cunning serial killer as a chilling investigation and dark secrets unfold.",
+    "language": "Hindi",
+    "country": "India",
+    "awards": "",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Poster/Sector_36.jpg",
+    "type": "movie",
+    "images": [
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Sector%2036%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Sector%2036%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Sector%2036%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Sector%2036%204.jpg"
+    ]
+  },
+  {
+    "_id": "08",
+    "featured": false,
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "trailer": "https://www.youtube.com/embed/ZlNFpri-Y40?si=Lk7ayeAEF03dgCns",
+    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/Ee9r7M-5QeBAsR_meOUBQ-MBrOLODbQQiw6ZIhyVOaUu-g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9RbDXv",
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Carousel%20Image/ant%20man%20and%20the%20wasp%20quantumaina%20(1).jpg",
+    "year": "–2023",
+    "publishDate": "February 6, 2023",
+    "runtime": "124 min",
+    "genre": "Sci-Fi, Superhero, Action, Adventure, Comedy",
+    "director": "Peyton Reed",
+    "writer": "Jeff Loveness",
+    "actors": "Paul Rudd, Evangeline Lilly, Jonathan Majors, Kathryn Newton, David Dastmalchian, Katy O'Brian, William Jackson Harper, Bill Murray, Michelle Pfeiffer, Corey Stoll, Michael Douglas",
+    "plot": "Scott Lang and Hope Van Dyne are dragged into the Quantum Realm, along with Hope's parents and Scott's daughter Cassie. Together they must find a way to escape, but what secrets is Hope's mother hiding? And who is the mysterious Kang?",
+    "language": "English",
+    "country": "United States",
+    "awards": "",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Poster/Ant-Man_and_the_Wasp_Quantumania_poster.jpg",
+    "type": "movie",
+    "images": [
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Ant-Man_and_the_Wasp_Quantumania%201.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Ant-Man_and_the_Wasp_Quantumania%202.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Ant-Man_and_the_Wasp_Quantumania%203.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Ant-Man_and_the_Wasp_Quantumania%204.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/Ant-Man_and_the_Wasp_Quantumania%205.jpg"
+    ]
+  },
+  {
+    "_id": "09",
+    "featured": true,
+    "title": "The Dark Knight",
+    "trailer": "https://www.youtube.com/embed/g8evyE9TuYk?si=C3a3I37W4A2fkEDp",
+    "contentLink": "https://vq11v-my.sharepoint.com/:v:/g/personal/shishir_vq11v_onmicrosoft_com/EX4J6hRHJZ9Osod0qgAuh2UBuDWD86D--x7kQSDE2c4XGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6q6csF",
+    "quality": "BluRay(HD)",
+    "carouselImage": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Carousel%20Image/the%20dark%20knight%20wide%20poster%20(1).jpg",
+    "year": "–2008",
+    "publishDate": "JUly 18, 2008",
+    "runtime": "152 min",
+    "genre": "Action, Adventure, Drama",
+    "director": "Christopher Nolan",
+    "writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
+    "actors": "Christian Bale, Michael Caine, Heath Ledger, Gary Oldman, Aaron Eckhart, Maggie Gyllenhaal, Morgan Freeman",
+    "plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+    "language": "English",
+    "country": "United States, United Kingdom",
+    "awards": "Best Action/Adventure/Thriller Film in 2018",
+    "moviePoster": "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Poster/The_Dark_Knight_(2008_film).jpg",
+    "type": "movie",
+    "images": [
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/The%20Dark%20Knight%20Ss.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/The%20Dark%20Knight%20Ss1.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/The%20Dark%20Knight%20Ss2.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/The%20Dark%20Knight%20Ss3.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/The%20Dark%20Knight%20Ss4.jpg",
+      "https://raw.githubusercontent.com/jisanahamed09205/Mini-Flix-Data/refs/heads/main/images/Screenshot/The%20Dark%20Knight%20Ss5.jpg"
+    ]
+  }
+]
